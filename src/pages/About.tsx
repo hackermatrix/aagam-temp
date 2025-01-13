@@ -26,7 +26,7 @@ const teams = {
     },
     {
       name: "Rajendra Salve",
-      designation: "Co-founder & COO",
+      designation: "Co-founder, COO & CFO ",
       image: RajendraSalve
     },
 
@@ -79,7 +79,7 @@ const teams = {
     },
     {
       name: "Rajendra Salve",
-      designation: "Co-founder & COO",
+      designation: "Co-founder, COO & CFO ",
       image: RajendraSalve
     },
     {
